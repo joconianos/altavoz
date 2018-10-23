@@ -1,0 +1,7 @@
+{
+  "name": "altavoz",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
